@@ -1,0 +1,34 @@
+# Shiki: A detailed analysis of the risen
+
+The one-season-long anime series Shiki, originally a horror novel by Fuyumi Ono, later turned into a manga by Ryu Fujisaki before finally being serialized into an anime, revolves around the rural village Sotoba, and the literal rise of the undead. The shiki (or risen as they're called per the local folklore) can only survive by consuming human blood. What ensues is a struggle between the Shiki's desire to continue living, and the humans' will to keep theirs.
+
+The concept is simple enough. However, several ambiguities exist within the story, and this document serves to define those aspects as thoroughly as-is practically possible, using a more scientific approach and relying less on superstitions.
+
+<!-- CONSIDER REMOVING THIS PART -->
+One common law that will be heavily relied on is The Law of Conservation of Energy: Any and all exertion done by a shiki requires some amount of energy, which must be supplied from somewhere some way or another. The shiki cannot exert any movement without energy and no explanation that goes against this will be valid.
+
+## Biology
+The Shiki's physical appearance are the same as their living human forms (even cosmetics such as hair color), with the exception of sharpened fangs, blackened eyes and reddened irises, and their almost-white pale skin.
+
+The shiki are not dead. Yes, they are *undead* in the sense that they show almost none of the major signs of life, including the ability to breed directly with one another. However, they are not completely dead. The use of an electrocardiogram shows minor vital signs from their bodies, and their skin can rapidly heal itself.
+
+The shiki are weak against any normal dosage of UV radiation, causing their skin to burn when exposed to direct sunlight, and they must drink human blood in order to survive. Consumption of regular food that is edible by humans will lead to regurgitation of the consumed contents. No urinary nor excretive abilities have been observed among them, however, it is possible that consumed human content can be excreted by a shiki if regurgitation is suppressed with mechanical forces. No substance-based methods of any purpose have found to have any effect on any shiki whatsoever. The shiki can only be affected by physical and psychological methods.
+
+At least certain aspects of their brain have been confirmed to be functional. The pain-signaling system works just like their pre-mortem state as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial abilities appear to remain the same. The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members.
+
+Vision is likely significantly enhanced due to the shiki spending almost all their waking moments at night, and they have not been found to struggle navigation through relatively complex areas in pitch-black darkness. Taste and smell has not been confirmed to function, but their hearing is as good as any living human, assuming no prior loss of hearing such as from old age.
+
+The shiki do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is possible that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shiki are capable of controlling all voluntary muscles as usual.
+
+It is believed that the shiki *are* blood, and that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
+
+### MVR
+With the prior information in mind, the arise of the shikis is hypothesized to have occurred in the following manner: At some point in time a viral mutation that results in the creation of a new viral disease taking place. We'll call this new virus "MVR-2 (Mortuus Vita Retrovirus - Type 2)", or just MVR for short. The MVR virus spreads to its first human host, and remains dormant in their body until a few days after decease.
+
+MVR is believed to be an weak, 'opportunistic' virus, and cannot take control of its host until all their autoimmune defenses are rendered null by death, at which point the virus will immediately start taking over the host's body before it's completely deceased. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until death by anemia or other external causes. MVR "inherits" the existing genetic data of the host, and uses it for keep it almost perfectly fixed in the state it was prior to death.
+
+This would not only explain each shiki's latent rise, but also the fact that some individuals do not become reanimated; a genetic disposition and some favorable environmental conditions (which exactly is unknown) would be needed in order for a successful arisal of a killed, infected human to take place.
+
+Finally, there exists a subgroup of shiki called jinrou: human wolverines who can survive in sunlight, digest human food, and retain white sclera and normally-hued irises. This species is likely a completely different type of the MVR virus (Type 1), and should be considered a superior manifestation of the disease. It is likely that under perfect genetic and environmental conditions, all infected humans that die become jinrou. MVR-1 is therefor a "first-grade" form of the MVR virus, while MVR-2 is a second-grade version that is the result of partial failure of the virus to fully take over the host and apply necessary changes in order to facilitate the qualitiative abilities that the jinrou possess. No reanimation of the dead host's body is the result of either MVR's nonexistence in the host, or complete failure at overtaking it.
+
+## Psychology
