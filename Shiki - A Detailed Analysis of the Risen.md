@@ -2,12 +2,9 @@
 
 The one-season-long anime series Shiki, originally a horror novel by Fuyumi Ono, later turned into a manga by Ryu Fujisaki before finally being serialized into an anime, revolves around the rural village Sotoba, and the literal rise of the undead. The shiki (or risen as they're called per the local folklore) can only survive by consuming human blood. What ensues is a struggle between the Shiki's desire to continue living, and the humans' will to keep theirs.
 
-The concept is simple enough. However, several ambiguities exist within the story, and this document serves to define those aspects as thoroughly as-is practically possible, using a more scientific approach and relying less on superstitions.
+The concept is simple enough. But, several ambiguities exist within the story, and this document serves to define those aspects as thoroughly as-is practically possible, using a more scientific approach and relying less on superstitions.
 
-<!-- CONSIDER REMOVING THIS PART -->
-One common law that will be heavily relied on is The Law of Conservation of Energy: Any and all exertion done by a shiki requires some amount of energy, which must be supplied from somewhere some way or another. The shiki cannot exert any movement without energy and no explanation that goes against this will be valid.
-
-## Biology
+## Physiology
 The Shiki's physical appearance are the same as their living human forms (even cosmetics such as hair color), with the exception of sharpened fangs, blackened eyes and reddened irises, and their almost-white pale skin.
 
 The shiki are not dead. Yes, they are *undead* in the sense that they show almost none of the major signs of life, including the ability to breed directly with one another. However, they are not completely dead. The use of an electrocardiogram shows minor vital signs from their bodies, and their skin can rapidly heal itself.
@@ -22,13 +19,16 @@ The shiki do not breathe, do not emit heat, have no pulse, and cannot digest foo
 
 It is believed that the shiki *are* blood, and that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
-### MVR
-With the prior information in mind, the arise of the shikis is hypothesized to have occurred in the following manner: At some point in time a viral mutation that results in the creation of a new viral disease taking place. We'll call this new virus "MVR-2 (Mortuus Vita Retrovirus - Type 2)", or just MVR for short. The MVR virus spreads to its first human host, and remains dormant in their body until a few days after decease.
+Furthermore, there exists a sister-species of the shiki called Jinrou that suffer none of the shiki's disabilities, while exhibiting superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
-MVR is believed to be an weak, 'opportunistic' virus, and cannot take control of its host until all their autoimmune defenses are rendered null by death, at which point the virus will immediately start taking over the host's body before it's completely deceased. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until death by anemia or other external causes. MVR "inherits" the existing genetic data of the host, and uses it for keep it almost perfectly fixed in the state it was prior to death.
+#### MVR
+With the prior information in mind, the arise of the shikis is hypothesized to be the result of an unknown virus, which, for the purposes of this paper, will be referred to as "Mortuus Vita Retrovirus", or just MVR for short.
 
-This would not only explain each shiki's latent rise, but also the fact that some individuals do not become reanimated; a genetic disposition and some favorable environmental conditions (which exactly is unknown) would be needed in order for a successful arisal of a killed, infected human to take place.
+MVR is believed to be an weak, 'opportunistic' virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of state of weakness, at which point the virus will immediately start taking over the host's body before it's completely deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible based on their DNA.
 
-Finally, there exists a subgroup of shiki called jinrou: human wolverines who can survive in sunlight, digest human food, and retain white sclera and normally-hued irises. This species is likely a completely different type of the MVR virus (Type 1), and should be considered a superior manifestation of the disease. It is likely that under perfect genetic and environmental conditions, all infected humans that die become jinrou. MVR-1 is therefor a "first-grade" form of the MVR virus, while MVR-2 is a second-grade version that is the result of partial failure of the virus to fully take over the host and apply necessary changes in order to facilitate the qualitiative abilities that the jinrou possess. No reanimation of the dead host's body is the result of either MVR's nonexistence in the host, or complete failure at overtaking it.
+A total of three different types is believed to exist of MVR, labeled MVR-1 through 3: MVR-1 is when the virus exists in the host, but is unable to take over any control either due to existing autoimmune systems, or complete failure at cultivation prior to host's death. MVR-2 is deemed to be a partially successful cultivation of itself in that it was able to take over the host, but not while in a living state. MVR-3 is the rarest, and most powerful variant, where the virus has achieved complete cultivation prior to the host's death, and successfully transmuted the body into a superior state.
+
+The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation.
+
 
 ## Psychology
