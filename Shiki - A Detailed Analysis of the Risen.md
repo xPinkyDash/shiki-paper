@@ -11,8 +11,6 @@ The shiki are not dead. Yes, they are *undead* in the sense that they show almos
 
 The shiki are weak against any normal dosage of UV radiation, causing their skin to burn when exposed to direct sunlight, and they must drink human blood in order to survive. Consumption of regular food that is edible by humans will lead to regurgitation of the consumed contents. No urinary nor excretive abilities have been observed among them, however, it is possible that consumed human content can be excreted by a shiki if regurgitation is suppressed with mechanical forces. No substance-based methods of any purpose have found to have any effect on any shiki whatsoever. The shiki can only be affected by physical and psychological methods.
 
-At least certain aspects of their brain have been confirmed to be functional. The pain-signaling system works just like their pre-mortem state as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial abilities appear to remain the same. The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members.
-
 Vision is likely significantly enhanced due to the shiki spending almost all their waking moments at night, and they have not been found to struggle navigation through relatively complex areas in pitch-black darkness. Taste and smell has not been confirmed to function, but their hearing is as good as any living human, assuming no prior loss of hearing such as from old age.
 
 The shiki do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is possible that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shiki are capable of controlling all voluntary muscles as usual.
@@ -32,3 +30,12 @@ The above hypothesis would explain the existence of shikis, jinrou, and why some
 
 
 ## Psychology
+At least certain aspects of their brain have been confirmed to be functional. The pain-signaling system works just like their pre-mortem state as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial abilities appear to remain the same.
+
+The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
+
+It is almost impossible for shikis to go without eating for an extended period of time: as existing bloodcells die out, the host body breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. In incredibly low number of shiki have ever been found to restrain themselves in a state of severe hunger.
+
+Outside of life-threatening circumstances, the overall personality and mentality of each shiki largely remains the same. The nervous system therefor must have remained intact, including the neural connections made in the brain throughout the person's previous life. Unlike their biological aspects, shikis' neurological connections can -- and likely will -- change as they go on living for what may be eternity.
+
+## Ethics of existence
