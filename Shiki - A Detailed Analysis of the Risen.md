@@ -30,7 +30,7 @@ The above hypothesis would explain the existence of shikis, jinrou, and why some
 
 
 ## Psychology
-At least certain aspects of their brain have been confirmed to be functional. The pain-signaling system works just like their pre-mortem state as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial abilities appear to remain the same.
+Certain aspects of their brain have been confirmed to be functional. The pain-signaling system works just like their pre-mortem state as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial abilities appear to remain the same.
 
 The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
 
