@@ -1,5 +1,5 @@
-# Shiki: A detailed analysis of the risen
-
+# Shiki: A Detailed Analysis of the Risen
+<!--REWRITE EVERYTHING AND ORGANIZE THINGS-->
 The one-season-long anime series Shiki, originally a horror novel by Fuyumi Ono, later turned into a manga by Ryu Fujisaki before finally being serialized into an anime, revolves around the rural village Sotoba, and the literal rise of the undead. The shiki (or risen as they're called per the local folklore) can only survive by consuming human blood. What ensues is a struggle between the Shiki's desire to continue living, and the humans' will to keep theirs.
 
 The concept is simple enough. But, several ambiguities exist within the story, and this document serves to define those aspects as thoroughly as-is practically possible, using a more scientific approach and relying less on superstitions.
@@ -17,12 +17,12 @@ The shiki do not breathe, do not emit heat, have no pulse, and cannot digest foo
 
 It is believed that the shiki *are* blood, and that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
-Furthermore, there exists a sister-species of the shiki called Jinrou that suffer none of the shiki's disabilities, while exhibiting superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
+Furthermore, there exists a *living* sister-species of the shiki called Jinrou that suffer none of the shiki's disabilities, while exhibiting superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
 #### MVR
 With the prior information in mind, the arise of the shikis is hypothesized to be the result of an unknown virus, which, for the purposes of this paper, will be referred to as "Mortuus Vita Retrovirus", or just MVR for short.
 
-MVR is believed to be an weak, 'opportunistic' virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of state of weakness, at which point the virus will immediately start taking over the host's body before it's completely deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible based on their DNA.
+MVR is believed to be an weak, 'opportunistic' virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of weakness, at which point the virus will immediately start taking over the host's body before it's completely deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible based on their DNA.
 
 A total of three different types is believed to exist of MVR, labeled MVR-1 through 3: MVR-1 is when the virus exists in the host, but is unable to take over any control either due to existing autoimmune systems, or complete failure at cultivation prior to host's death. MVR-2 is deemed to be a partially successful cultivation of itself in that it was able to take over the host, but not while in a living state. MVR-3 is the rarest, and most powerful variant, where the virus has achieved complete cultivation prior to the host's death, and successfully transmuted the body into a superior state.
 
@@ -34,8 +34,18 @@ Certain aspects of their brain have been confirmed to be functional. The pain-si
 
 The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
 
-It is almost impossible for shikis to go without eating for an extended period of time: as existing bloodcells die out, the host body breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. In incredibly low number of shiki have ever been found to restrain themselves in a state of severe hunger.
+It is almost impossible for shikis to go without eating for an extended period of time: as existing bloodcells die out, the host body breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. An incredibly low number of shiki have ever been found to restrain themselves in a state of severe hunger.
 
 Outside of life-threatening circumstances, the overall personality and mentality of each shiki largely remains the same. The nervous system therefor must have remained intact, including the neural connections made in the brain throughout the person's previous life. Unlike their biological aspects, shikis' neurological connections can -- and likely will -- change as they go on living for what may be eternity.
 
 ## Ethics of existence
+<!--stop using jinrou and shiki interchangably! treat the two as completely different species! Fix this in a complete rewrite!-->
+Despite the shikis' morbid aspects, it is *technically* possible them to coexist with humans; shikis do not have to kill anyone, only consume human blood. The blood itself has to have living red bloodcells as replacements for dying bloodcells within the shikis: this means that it's possible to stock up food for shikis for upwards of 42 days (cite source here please), which can be supplied from donations or prisoners.
+
+The problem lies in the dangers shikis and jinrou pose to the human race; they are able to infect a small number of individuals and force them to do the same to others, leading to a pandemic of blood-dependent parasites beginning to take over the planet. Furthermore, their eternal lifespan entails a severe risk to human civilization if any one of them was to end up in a position of power within our ranks, especially if it's a jinrou.
+
+As such, not only would human society as a whole have to ensure that the shikis are well-fed on human blood in order to prevent them from losing all mental inhibitions, but also prevent conflicts from occuring. Shikis who turn into enemies towards humans would likely start infecting individuals en-masse, and some shikis or jinrou may even do so by sheer accident or stupidity.
+
+This power imbalance could be mitigated by heavily monitoring each and every shiki, containing them into dedicated facililties, performing physical modifications that would prevent them from performing actions such as biting, etc. This is however extremely inhumane, which brings into question whether or not it is, while not taking into account any other issues, even reasonable to treat shikis and especially jinrou as subhumans for the sake of letting them mark more time.
+
+The alternative is to simply kill them off as they appear, but considering the fact thatshikis still feels pain and have emotions, this could consistute as mass genocide, especially if performed towards jinrou, who did not actually die a clinical death prior to transformation.
