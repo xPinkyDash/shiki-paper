@@ -32,13 +32,11 @@ It is almost impossible for shikis to go without eating for an extended period o
 
 Outside of life-threatening circumstances, the overall personality and mentality of each shiki largely remains the same; the nervous system therefor must have remained intact, including the neural connections made in the brain throughout the person's previous life. Unlike their biological aspects, shikis' neurological connections can -- and likely will -- change as they go on living for what may be eternity.
 
-
-
 ## MVR
 
-With the prior information in mind, the arise of shikis and jinrou is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Retrovirus", or just MVR for short.
+With the prior information in mind, the arise of shikis and jinrou is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Reanima", or just MVR for short.
 
-MVR is believed to be a weak, 'opportunistic' virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of weakness, at which point the virus will immediately start taking over the host's body before it's irreversibly deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible.
+MVR is believed to be a weak, opportunistic virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of weakness, at which point the virus will immediately start taking over the host's body before it's irreversibly deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible.
 
 MVR is believed to exist in three different types, labeled MVR-1 through 3, described as follows:
 
@@ -54,24 +52,27 @@ A partially successful cultivation of itself in that it was able to take over th
 
 The rarest, and most powerful variant, where the virus has achieved complete cultivation prior to the host's death, and successfully transmuted the body into a superior state. Host suffers no weaknesses, attains temporary superhuman strength when consuming human blood, and does not age.
 
----
-
 The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation; some form of genetic disposition would be required for the maximization of MVR's cultivation, and the physical well-being of the victim likely has a great deal of effect in what of the three outcomes they end up in.
 
 ## Inexplicable behaviors and abilities
-Shikis and jinrou have been found to possess the following, unexplainable abilities and handicaps
+
+Shikis and jinrou have been found to possess the following, unexplainable abilities and handicaps:
 
 ### Hypnosis
+
 shikis who are first to bite their victims during the victim's current infectious period are able to mind-control them. The possible imposed effects on the victim by the shiki or jinrou includes, but is not limited to: lying, coersion, and outright homicidal acts of violence towards other human beings, irregardless of social relation to the mind-controlled victim.
 
 ### Invitation
+
 Shikis must be invited into any home they wish to enter. They cannot enter any building, no matter how easily trespassable it would otherwise be. The invitations themselves can be both formal and informal, as long as the intended meaning is to welcome/tolerate the shiki into one's premises.
 
 It is unknown whether or not an invitation can be redacted, and in turn prevent a previously invited shiki from entering a home.
 
 ### Fear of divinities
-<!--write this part out -_- -->
-(basicallly just write that they're scared as hell of religious stuff like statues, buddha statues, temples, crosses, maybe even garlic???)
+
+Any and all objects and physical locations with religious connotations. This includes, but is not limited to: Holy scriptures, religious symbols such as the Christian cross, and places of worship like temples, churches, etc.
+
+Shikis are however not affected by folkloric symbols such as garlic necklaces and silver bullets.
 
 ## Ethics of existence
 
@@ -82,5 +83,7 @@ Coexistence with jinrou is likely impossible. While they themselves do not need 
 Regular shikis are an even bigger complication, for not only can they infect others, but become outright homicidal when hungry. Regular shikis can absolutely not coexist with other humans, and should be killed as painlessly as is practically possible. Alternatively, they ought to live with jinrou, and be provided humanitary aid in the form of blood donations from both willing and incarcerated individuals.
 
 However, should jinrou or shikis attempt to rebel against humans in any capacity, the offending ones are to be immediately killed in order to weaken their ranks, and protect humanity.
+
+## Public discourse
 
 <!--ADD SOURCES HERE-->
