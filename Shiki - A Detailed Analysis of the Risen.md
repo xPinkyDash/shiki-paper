@@ -18,7 +18,7 @@ The shiki do not breathe, do not emit heat, have no pulse, and cannot digest foo
 
 It is believed that the shiki *are* blood, and that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
-Furthermore, there exists a *living* sister-species of the shiki called Jinrou that suffer *none* of the shiki's disabilities, while exhibiting superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
+Furthermore, there exists a *living* sister-species of the shiki called Jinrou that suffer *none* of the shiki's disabilities, while exhibiting temporary superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
 ## Psychology
 
@@ -26,7 +26,7 @@ Certain aspects of their brain have been confirmed to be functional. The pain-si
 
 The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
 
-One particularly odd behavioral disability that shikis exhibit is an involuntary loss of consciousness at dawn. The shikis remain unconscious for the remainder of the day, until dusk. Hormonal changes are believed to be the cause here as well, however, how exactly it's possible is unknown.
+One particularly odd behavioral disability that shikis exhibit is an involuntary loss of consciousness at dawn. The shikis remain unconscious for the remainder of the day, until dusk. Hormonal changes are believed to be the cause here as well, however, how exactly is unknown.
 
 It is almost impossible for shikis to go without eating for an extended period of time: as existing bloodcells die out, the host body starts breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. An incredibly low number of shikis have ever been found to restrain themselves in a state of severe hunger.
 
@@ -70,20 +70,30 @@ It is unknown whether or not an invitation can be redacted, and in turn prevent 
 
 ### Fear of divinities
 
-Any and all objects and physical locations with religious connotations. This includes, but is not limited to: Holy scriptures, religious symbols such as the Christian cross, and places of worship like temples, churches, etc.
+Shikis are scared of any and all objects and physical locations with religious connotations. This includes, but is not limited to: Holy scriptures, religious symbols such as the Christian cross, and places of worship like temples, churches, etc.
 
-Shikis are however not affected by folkloric symbols such as garlic necklaces and silver bullets.
+<!--THIS MIGHT BE FALSE PLEASE CHECK THIS-->
+Shikis are however not affected by exclusively folkloric symbols such as garlic necklaces and silver bullets.
 
 ## Ethics of existence
 
-The viewpoint of this section's author(s) is dependent on the care and protection of mankind. Any and all comfort and well-being for shikis and jinrou is secondary. Any and all harm and danger to other humans will not be tolerated in any proposals whatsoever, unless it involves the sacrifice of unsalvageable criminals.
+The viewpoint of this essay's author(s) is is that the care and protection of mankind takes priority, any and all comfort and well-being for shikis and jinrou is secondary, unless it entails the sacrifice of unsavageable criminals.
 
-Coexistence with jinrou is likely impossible. While they themselves do not need any particular accommodations in order to survive in human society, their ability to infect others with the virus puts humans at risk, this can even be done unintentionally via actions such as kisses, hugs, or just talking and having microscopics specs of fluids with MVR travel to the other person. Jinrou would either have to be treated as infectious victims and be quarantined, or be given land where they can live in isolation with their kind and their kind alone. Said land should be overseen by humans from a distance to ensure not a single jinrou escapes.
+Coexistence with jinrou is likely impossible. While they themselves do not need any particular accommodations in order to survive in human society, their ability to infect others with the virus puts humans at risk. This can even be done unintentionally via actions such as kisses, hugs, or just talking and having microscopics specs of fluids with MVR travel to the other person. Jinrou would either have to be treated as infectious victims and be quarantined, or be given land where they can live in isolation with their kind and their kind alone. Said land should be overseen by humans from a distance to ensure not a single jinrou escapes.
 
-Regular shikis are an even bigger complication, for not only can they infect others, but become outright homicidal when hungry. Regular shikis can absolutely not coexist with other humans, and should be killed as painlessly as is practically possible. Alternatively, they ought to live with jinrou, and be provided humanitary aid in the form of blood donations from both willing and incarcerated individuals.
+Regular shikis are an even bigger complication, for not only can they infect others and require additional accommodations, they even become outright homicidal when hungry. Regular shikis can absolutely not coexist with other humans, and should be killed as painlessly as possible. Alternatively, they ought to live with jinrou, and be provided humanitary aid in the form of blood donations from both willing and incarcerated individuals.
 
-However, should jinrou or shikis attempt to rebel against humans in any capacity, the offending ones are to be immediately killed in order to weaken their ranks, and protect humanity.
+However, should jinrou or shikis attempt to rebel against humans in any capacity, the offending ones are to be immediately dealt with as per the geneva convention.
 
 ## Public discourse
+
+Other essayists have argued for the accommodation and caretaking of shikis and jinrou, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with destructive actions committed by mankind being referenced to support this.
+
+What a lot of other literary and visual works surrounding the series miss is that humans do not need much in order to merely survive. The average human can live off of a vegan diet alone. Furthermore, humans do not pose a risk to other, equally intelligent creatures -- not that there are any in the first place.
+
+Additionally, the hierarchal structure of shikis and jinrou, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them. Shikis and jinrou committed *preventable* atrocities towards people.
+
+## Final thoughts
+As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, I do not believe
 
 <!--ADD SOURCES HERE-->
