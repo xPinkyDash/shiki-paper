@@ -14,9 +14,9 @@ The shiki are weak against any normal dosage of UV radiation, causing their skin
 
 Vision is likely significantly enhanced due to the shiki spending almost all their waking moments at night, and they have not been found to struggle navigation through relatively complex areas in pitch-black darkness. Taste and smell has not been confirmed to function, but their hearing is as good as any living human, assuming no prior loss of hearing such as from old age.
 
-The shiki do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is possible that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shiki are capable of controlling all voluntary muscles as usual.
+The shikis do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is possible that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shikis are capable of controlling all voluntary muscles as usual.
 
-It is believed that the shiki *are* blood, and that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
+It is believed that they *are* blood, that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shikis multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
 Furthermore, there exists a *living* sister-species of the shiki called Jinrou that suffer *none* of the shiki's disabilities, while exhibiting temporary superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
@@ -56,17 +56,17 @@ The above hypothesis would explain the existence of shikis, jinrou, and why some
 
 ## Inexplicable behaviors and abilities
 
-Shikis and jinrou have been found to possess the following, unexplainable abilities and handicaps:
+Shikis have been found to possess the following, unexplainable abilities and handicaps, with jinrou being immunie to the handicaps:
 
 ### Hypnosis
 
-shikis who are first to bite their victims during the victim's current infectious period are able to mind-control them. The possible imposed effects on the victim by the shiki or jinrou includes, but is not limited to: lying, coersion, and outright homicidal acts of violence towards other human beings, irregardless of social relation to the mind-controlled victim.
+Shikis who are first to bite their victims during the victim's current infectious period are able to mind-control them. The possible imposed effects on the victim by the shiki or jinrou include, but is not limited to: lying, coersion, and outright homicidal acts of violence towards other human beings, irregardless of social relation to the mind-controlled victim.
 
 ### Invitation
 
 Shikis must be invited into any home they wish to enter. They cannot enter any building, no matter how easily trespassable it would otherwise be. The invitations themselves can be both formal and informal, as long as the intended meaning is to welcome/tolerate the shiki into one's premises.
 
-It is unknown whether or not an invitation can be redacted, and in turn prevent a previously invited shiki from entering a home.
+It is unknown whether or not an invitation can be redacted, and in turn prevent a previously invited shiki from entering a home. It's also not clear what determines if a human can give out a valid invitation in the first place. Do they have to own the residence in question? Merely live in it? Either way, the exact level of authority over a home or area required to hand out invitations to shikis is yet to be determined.
 
 ### Fear of divinities
 
@@ -74,6 +74,12 @@ Shikis are scared of any and all objects and physical locations with religious c
 
 <!--THIS MIGHT BE FALSE PLEASE CHECK THIS-->
 Shikis are however not affected by exclusively folkloric symbols such as garlic necklaces and silver bullets.
+
+## Hierarchal power structure
+
+The undead's organizational power structure is characterized by a top-down hierarchy, where any level of authority can exert control over its direct subordinate and subsequent subordinates, irrespective of their specific operational branch within the organization.
+
+The absolute ruling authority over all of the known, currently existing shikis, jinrou, and allied humans, is Sunako Kirishiki herself. Membership in the Kirishiki family is otherwise the primary determinant of status, regardless of whether an individual is human, shiki, or jinrou. Following the Kirishiki family, influence is ordered by the presence of existing jinrou, regular shikis with noteworthy status, attributed to commendable actions, leverage, etc. Regular shikis lacking notable characteristics occupy the lowest tier.
 
 ## Ethics of existence
 
@@ -83,17 +89,17 @@ Coexistence with jinrou is likely impossible. While they themselves do not need 
 
 Regular shikis are an even bigger complication, for not only can they infect others and require additional accommodations, they even become outright homicidal when hungry. Regular shikis can absolutely not coexist with other humans, and should be killed as painlessly as possible. Alternatively, they ought to live with jinrou, and be provided humanitary aid in the form of blood donations from both willing and incarcerated individuals.
 
-However, should jinrou or shikis attempt to rebel against humans in any capacity, the offending ones are to be immediately dealt with as per the geneva convention.
+However, should jinrou or shikis attempt to rebel against humans in any capacity, the offending ones are to be immediately killed.
 
 ## Public discourse
 
-Other essayists have argued for the accommodation and caretaking of shikis and jinrou, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with destructive actions committed by mankind being referenced to support this.
+Other essayists have argued for the accommodation and caretaking of shikis and jinrou, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with various destructive actions committed by mankind throughout history being referenced to support this.
 
 What a lot of other literary and visual works surrounding the series miss is that humans do not need much in order to merely survive. The average human can live off of a vegan diet alone. Furthermore, humans do not pose a risk to other, equally intelligent creatures -- not that there are any in the first place.
 
-Additionally, the hierarchal structure of shikis and jinrou, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them. Shikis and jinrou committed *preventable* atrocities towards people.
+Additionally, the hierarchal structure of shikis and jinrou, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them. Shikis and jinrou committed *preventable* atrocities towards people. 
 
 ## Final thoughts
-As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, I do not believe
+As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, given the nature of the discussed beings, the actions taken by them, and how it all could've been easily avoided, I believe that there is no need to show sympathy. Of course, all subjective opinions laid forth are done so on a humanist basis, so if you're more of a biocentrist, your dislike for the above proposals in how to treat shikis is more than understandable.
 
 <!--ADD SOURCES HERE-->
