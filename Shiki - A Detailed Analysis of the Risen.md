@@ -18,7 +18,7 @@ The shikis do not breathe, do not emit heat, have no pulse, and cannot digest fo
 
 It is believed that they *are* blood, that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shikis multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
-Furthermore, there exists a *living* sister-species of the shiki called Jinrou that suffer *none* of the shiki's disabilities, while exhibiting temporary superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
+Furthermore, there exists a sub-species of the shiki called Jinrou that suffer *none* of the aforementioned disabilities, while exhibiting temporary superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
 ## Psychology
 
@@ -34,7 +34,7 @@ Outside of life-threatening circumstances, the overall personality and mentality
 
 ## MVR
 
-With the prior information in mind, the arise of shikis and jinrou is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Reanima", or just MVR for short.
+With the prior information in mind, the arise of shikis is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Reanima", or just MVR for short.
 
 MVR is believed to be a weak, opportunistic virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of weakness, at which point the virus will immediately start taking over the host's body before it's irreversibly deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible.
 
@@ -42,17 +42,17 @@ MVR is believed to exist in three different types, labeled MVR-1 through 3, desc
 
 ### MVR-1
 
-The virus exists in the host, but is unable to take over any control either due to existing autoimmune systems, or complete failure at cultivation prior to host's death and decease.
+The virus exists in the host, but is unable to take over any control either due to existing autoimmune systems, or complete failure at cultivation prior to severe decease of the host.
 
 ### MVR-2
 
-A partially successful cultivation of itself in that it was able to take over the host, but not while in a living state. Host will suffer aforementioned weaknesses, but will stop aging.
+A partially successful cultivation of itself in that it was able to take over the host, but not while in an undeceased state. Host will suffer aforementioned weaknesses, but will stop aging.
 
 ### MVR-3
 
-The rarest, and most powerful variant, where the virus has achieved complete cultivation prior to the host's death, and successfully transmuted the body into a superior state. Host suffers no weaknesses, attains temporary superhuman strength when consuming human blood, and does not age.
+The rarest, and most powerful variant, where the virus has achieved complete cultivation prior to any significant decease of the dead host, and successfully transmuted the body into a superior state. Host suffers no weaknesses, attains temporary superhuman strength when consuming human blood, and does not age.
 
-The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation; some form of genetic disposition would be required for the maximization of MVR's cultivation, and the physical well-being of the victim likely has a great deal of effect in what of the three outcomes they end up in.
+The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation; some form of genetic disposition would be required for the maximization of MVR's cultivation, and the physical well-being of the victim likely has a great deal of effect in what of the three outcomes they end up in. The time allowed for MVR's cultivation prior to host's death is also a major contributor, as the time between decease and reanimation can be greatly reduced, increasing the likelyhood the host becomes a jinrou.
 
 ## Inexplicable behaviors and abilities
 
@@ -83,7 +83,7 @@ The absolute ruling authority over all of the known, currently existing shikis, 
 
 ## Ethics of existence
 
-The viewpoint of this essay's author(s) is is that the care and protection of mankind takes priority, any and all comfort and well-being for shikis and jinrou is secondary, unless it entails the sacrifice of unsavageable criminals.
+The viewpoint of this essay's author(s) is is that the care and protection of mankind takes priority, any and all comfort and well-being for shikis is secondary, unless it entails the sacrifice of unsavageable criminals.
 
 Coexistence with jinrou is likely impossible. While they themselves do not need any particular accommodations in order to survive in human society, their ability to infect others with the virus puts humans at risk. This can even be done unintentionally via actions such as kisses, hugs, or just talking and having microscopics specs of fluids with MVR travel to the other person. Jinrou would either have to be treated as infectious victims and be quarantined, or be given land where they can live in isolation with their kind and their kind alone. Said land should be overseen by humans from a distance to ensure not a single jinrou escapes.
 
@@ -93,13 +93,14 @@ However, should jinrou or shikis attempt to rebel against humans in any capacity
 
 ## Public discourse
 
-Other essayists have argued for the accommodation and caretaking of shikis and jinrou, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with various destructive actions committed by mankind throughout history being referenced to support this.
+Other essayists have argued for the accommodation and caretaking of shikis, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with various destructive actions committed by mankind throughout history being referenced to support this.
 
 What a lot of other literary and visual works surrounding the series miss is that humans do not need much in order to merely survive. The average human can live off of a vegan diet alone. Furthermore, humans do not pose a risk to other, equally intelligent creatures -- not that there are any in the first place.
 
-Additionally, the hierarchal structure of shikis and jinrou, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them. Shikis and jinrou committed *preventable* atrocities towards people. 
+Additionally, the hierarchal structure of shikis, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them.Shikis committed *preventable* atrocities towards people. 
 
 ## Final thoughts
-As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, given the nature of the discussed beings, the actions taken by them, and how it all could've been easily avoided, I believe that there is no need to show sympathy. Of course, all subjective opinions laid forth are done so on a humanist basis, so if you're more of a biocentrist, your dislike for the above proposals in how to treat shikis is more than understandable.
+
+As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, given the nature of the discussed beings, the actions taken by them, and how it all could've been easily avoided, I believe that there is no need to show sympathy. Of course, all subjective opinions laid forth are done so on a humanist basis, so if you're more of a biocentrist, your dislike for the above proposals is more than understandable.
 
 <!--ADD SOURCES HERE-->
