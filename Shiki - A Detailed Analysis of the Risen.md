@@ -22,7 +22,7 @@ Furthermore, there exists a sub-species of the shiki called Jinrou that suffer *
 
 ## Psychology
 
-Certain aspects of their brain have been confirmed to be functional. The pain-signaling system, for example, works just like their pre-mortem state, as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial senses seem to remain the same.
+Certain aspects of their brain have been confirmed to be functional. The pain-signaling system, for example, works just like their pre-mortem state, as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial awareness seem to remain the same.
 
 The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
 
@@ -56,7 +56,7 @@ The above hypothesis would explain the existence of shikis, jinrou, and why some
 
 ## Inexplicable behaviors and abilities
 
-Shikis have been found to possess the following, unexplainable abilities and handicaps, with jinrou being immunie to the handicaps:
+Shikis have been found to possess the following, unexplainable abilities and handicaps, with jinrou being immune to the handicaps:
 
 ### Hypnosis
 
@@ -79,11 +79,11 @@ Shikis are however not affected by exclusively folkloric symbols such as garlic 
 
 The undead's organizational power structure is characterized by a top-down hierarchy, where any level of authority can exert control over its direct subordinate and subsequent subordinates, irrespective of their specific operational branch within the organization.
 
-The absolute ruling authority over all of the known, currently existing shikis, jinrou, and allied humans, is Sunako Kirishiki herself. Membership in the Kirishiki family is otherwise the primary determinant of status, regardless of whether an individual is human, shiki, or jinrou. Following the Kirishiki family, influence is ordered by the presence of existing jinrou, regular shikis with noteworthy status, attributed to commendable actions, leverage, etc. Regular shikis lacking notable characteristics occupy the lowest tier.
+The absolute ruling authority over all of the known, currently existing shikis, jinrou, and allied humans, is Sunako Kirishiki herself. Membership in the Kirishiki family is otherwise the primary determinant of status, regardless of whether an individual is human, shiki, or jinrou. Following the Kirishiki family, influence is ordered by the presence of existing jinrou, regular shikis with noteworthy status, and finally regular shikis that lack any significant characteristics.
 
 ## Ethics of existence
 
-The viewpoint of this essay's author(s) is is that the care and protection of mankind takes priority, any and all comfort and well-being for shikis is secondary, unless it entails the sacrifice of unsavageable criminals.
+The viewpoint of this essay's author(s) is is that the care and protection of mankind takes priority. Any and all comfort and well-being for shikis is secondary, unless it entails the sacrifice of unsavageable criminals.
 
 Coexistence with jinrou is likely impossible. While they themselves do not need any particular accommodations in order to survive in human society, their ability to infect others with the virus puts humans at risk. This can even be done unintentionally via actions such as kisses, hugs, or just talking and having microscopics specs of fluids with MVR travel to the other person. Jinrou would either have to be treated as infectious victims and be quarantined, or be given land where they can live in isolation with their kind and their kind alone. Said land should be overseen by humans from a distance to ensure not a single jinrou escapes.
 
@@ -95,9 +95,9 @@ However, should jinrou or shikis attempt to rebel against humans in any capacity
 
 Other essayists have argued for the accommodation and caretaking of shikis, and their arguments have often revolved around the fact that, shikis in particular, still feel pain and sorrow. It's often also stated that shikis have as much of a right to continue living, if not more so than humans, with various destructive actions committed by mankind throughout history being referenced to support this.
 
-What a lot of other literary and visual works surrounding the series miss is that humans do not need much in order to merely survive. The average human can live off of a vegan diet alone. Furthermore, humans do not pose a risk to other, equally intelligent creatures -- not that there are any in the first place.
+What a lot of other literary and visual works surrounding the series miss is that humans do not need much in order to merely survive. The average human can live off of a vegan diet alone. Furthermore, humans do not pose a risk to other, equally intelligent creatures.
 
-Additionally, the hierarchal structure of shikis, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them.Shikis committed *preventable* atrocities towards people. 
+Additionally, the hierarchal structure of shikis, while only observed at a sample size of literally one (1), is prone to the extinction of humans. The kirishiki family dismissed any internal attempts at co-existence with humans and saw them as cattle, and each shiki within the organization actively sucked blood from the same victim multiple consecutive times daily, killing them. Shikis committed *preventable* atrocities towards people. 
 
 ## Final thoughts
 
