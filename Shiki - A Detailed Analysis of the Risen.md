@@ -14,27 +14,27 @@ The shiki are weak against any normal dosage of UV radiation, causing their skin
 
 Vision is likely significantly enhanced due to the shiki spending almost all their waking moments at night, and they have not been found to struggle navigation through relatively complex areas in pitch-black darkness. Taste and smell has not been confirmed to function, but their hearing is as good as any living human, assuming no prior loss of hearing such as from old age.
 
-The shikis do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is possible that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shikis are capable of controlling all voluntary muscles as usual.
+The shikis do not breathe, do not emit heat, have no pulse, and cannot digest food. Essentially, all their smooth muscles are inoperable. The only involuntary muscles that are seen to be controlled by the shiki are lungs, allowing them to perform ventilation and in turn actions such speech and blowing some air. It is believed that their post-mortem breathing is possible because ventilation of lungs is already controllable in a human, living state, while aspects such as heart beating and digestion were never possible to consciously control solely by thought. The shiki are capable of controlling all voluntary muscles as usual.
 
-It is believed that they *are* blood, that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shikis are "dead" bodies suffering from viremia. Shikis multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream when sucking up blood. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
+It is believed that they *are* blood; that their bodies serve merely as husks to be controlled by the actual, viremic blood mass that is contained in them. All shiki are "dead" bodies suffering from viremia. Shiki multiply by spreading this disease to other living hosts through bites when consuming blood; viruses from their saliva is believed to infect their victims through the bloodstream. And, they individually keep themselves alive by replacing dying blood cells with the living ones they consume from live humans.
 
-Furthermore, there exists a sub-species of the shiki called Jinrou that suffer *none* of the aforementioned disabilities, while exhibiting temporary superhuman strength and "twice the fineness" of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
+Furthermore, there exists a sub-species of the shiki called Jinrou that suffer *none* of the aforementioned disabilities, while exhibiting temporary superhuman strength and "twice the fineness"[^1] of all five senses when consuming human blood on a regular basis. Jinrou are far more rare than the usual shikis.
 
 ## Psychology
 
 Certain aspects of their brain have been confirmed to be functional. The pain-signaling system, for example, works just like their pre-mortem state, as induced damages such as cuts, battery, burns, and even emotional damage, all result in observed pain. Shikis are also found to observe senses of touch, and their spacial awareness seem to remain the same.
 
-The reward system appears to also remain largely intact, as some shikis are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
+The reward system appears to also remain largely intact. Some shiki are found to seek out other desires beyond basic survival, such as love, entertainment, or the company of fellow family members. It is therefor believed that hormonal changes still take place in their bodies, with the hormones themselves being supplied from the consumed blood of their victims.
 
-One particularly odd behavioral disability that shikis exhibit is an involuntary loss of consciousness at dawn. The shikis remain unconscious for the remainder of the day, until dusk. Hormonal changes are believed to be the cause here as well, however, how exactly is unknown.
+One particularly odd behavioral disability that shiki exhibit is an involuntary loss of consciousness at dawn. The shiki remain unconscious for the remainder of the day, until dusk. Hormonal changes are believed to be the cause here as well, however, how exactly is unknown.
 
-It is almost impossible for shikis to go without eating for an extended period of time: as existing bloodcells die out, the host body starts breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. An incredibly low number of shikis have ever been found to restrain themselves in a state of severe hunger.
+It is almost impossible for shikis to go without eating for an extended period of time. As existing bloodcells die out, the host body starts breaking down, leading to the brain being signaled to eat no matter what, and any and all existing mental inhibitions begin to disappear. An incredibly low number of shikis have ever been found to restrain themselves in a state of severe hunger.
 
-Outside of life-threatening circumstances, the overall personality and mentality of each shiki largely remains the same; the nervous system therefor must have remained intact, including the neural connections made in the brain throughout the person's previous life. Unlike their biological aspects, shikis' neurological connections can -- and likely will -- change as they go on living for what may be eternity.
+Outside of life-threatening circumstances, the overall personality and mentality of each shiki largely remains the same; the nervous system therefor must have remained intact, including the neural connections made in the brain throughout the person's previous life. Unlike their biological aspects, shiki's neurological connections can -- and likely will -- change as they go on living for what may be eternity.
 
 ## MVR
 
-With the prior information in mind, the arise of shikis is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Reanima", or just MVR for short.
+With the prior information in mind, the arise of shiki is hypothesized to be the result of an unknown virus, which, for the purposes of this document, will be referred to as "Mortuus Vita Reanima", or just MVR for short.
 
 MVR is believed to be a weak, opportunistic virus that cannot take control of its host until all their autoimmune defenses are rendered null, either by death or any other form of weakness, at which point the virus will immediately start taking over the host's body before it's irreversibly deceased. Infection mainly occurs via bites from other infected hosts. MVR can only survive the human body's autoimmune systems for a few days at best, and the host has to be repeatedly reinfected on a daily basis until the virus has properly cultivated itself. MVR "inherits" the existing genetic data of the host, and uses it to keep the host at the most optimal state possible.
 
@@ -52,7 +52,7 @@ A partially successful cultivation of itself in that it was able to take over th
 
 The rarest, and most powerful variant, where the virus has achieved complete cultivation prior to any significant decease of the dead host, and successfully transmuted the body into a superior state. Host suffers no weaknesses, attains temporary superhuman strength when consuming human blood, and does not age.
 
-The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation; some form of genetic disposition would be required for the maximization of MVR's cultivation, and the physical well-being of the victim likely has a great deal of effect in what of the three outcomes they end up in. The time allowed for MVR's cultivation prior to host's death is also a major contributor, as the time between decease and reanimation can be greatly reduced, increasing the likelyhood the host becomes a jinrou.
+The above hypothesis would explain the existence of shikis, jinrou, and why some people do not get reanimated in the first place, all under one common explanation; some form of genetic disposition would be required for the maximization of MVR's cultivation, and the physical well-being of the victim likely has a great deal of effect in what of the three outcomes they end up in. The time allowed for MVR's cultivation prior to host's death is also a major contributor, as the time between decease and reanimation can be greatly reduced, increasing the likelyhood that the host becomes a jinrou.
 
 ## Inexplicable behaviors and abilities
 
@@ -63,7 +63,7 @@ Shikis have been found to possess the following, unexplainable abilities and han
 Shikis who are first to bite their victims during the victim's current infectious period are able to mind-control them. The possible imposed effects on the victim by the shiki or jinrou include, but is not limited to: lying, coersion, and outright homicidal acts of violence towards other human beings, irregardless of social relation to the mind-controlled victim.
 
 ### Invitation
-
+<!--CONSIDER MOVING PASSING OUT AT DAWN WEAKNESS TO THIS SECTION!!!!-->
 Shikis must be invited into any home they wish to enter. They cannot enter any building, no matter how easily trespassable it would otherwise be. The invitations themselves can be both formal and informal, as long as the intended meaning is to welcome/tolerate the shiki into one's premises.
 
 It is unknown whether or not an invitation can be redacted, and in turn prevent a previously invited shiki from entering a home. It's also not clear what determines if a human can give out a valid invitation in the first place. Do they have to own the residence in question? Merely live in it? Either way, the exact level of authority over a home or area required to hand out invitations to shikis is yet to be determined.
@@ -104,3 +104,14 @@ Additionally, the hierarchal structure of shikis, while only observed at a sampl
 As the author of this essay, I'd like to apologize for the cold viewpoint portrayed here. However, given the nature of the discussed beings, the actions taken by them, and how it all could've been easily avoided, I believe that there is no need to show sympathy. Of course, all subjective opinions laid forth are done so on a humanist basis, so if you're more of a biocentrist, your dislike for the above proposals is more than understandable.
 
 <!--ADD SOURCES HERE-->
+[^1]: put video reference here dumbass!
+
+<!--
+LIST OF SHIT TO FIX:
+
+    - Determine whether to write "shiki" in plural as "shiki" or "shikis" AND STICK WITH WHAT YOU PICK
+    - add sources
+    - investigate what constitutes a "home" or an area in general that a shiki requires an invitiation to in order to visit. Does it have to be surrounded by four walls and a roof? can it be an open plain without any actual physical boundaries? And, how big can it be? Can the earth as a whole be prohibited behind an invitation?
+    - Stay consistent in categorizations. Are shikis and jinrou exclusively different, or can jinrou be considered a TYPE of shiki? would "undead" be a better description to encompass both shikis and jinrou??
+    - 
+-->
